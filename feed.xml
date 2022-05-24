@@ -3,12 +3,32 @@
     <title>Finanzdrache</title>
     <link href="https://dapa-maker.github.io/PubliiTest/feed.xml" rel="self" />
     <link href="https://dapa-maker.github.io/PubliiTest" />
-    <updated>2022-05-24T16:50:54+02:00</updated>
+    <updated>2022-05-24T16:56:29+02:00</updated>
     <author>
         <name>Daniel Parpart</name>
     </author>
     <id>https://dapa-maker.github.io/PubliiTest</id>
 
+    <entry>
+        <title>Fiverr</title>
+        <author>
+            <name>Daniel Parpart</name>
+        </author>
+        <link href="https://dapa-maker.github.io/PubliiTest/fiverr.html"/>
+        <id>https://dapa-maker.github.io/PubliiTest/fiverr.html</id>
+
+        <updated>2022-05-24T16:56:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Fiverr eignet sich perfekt, um Aufgaben erledigen zu lassen, für die einem die Zeit oder das können fehlt und das für wenig Geld. Beispielsweise habe ich das Logo dieser Seite auf Fiverr erstellen lassen und ich spiele mit dem Gedanken mir dort eine App programmieren&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Fiverr eignet sich perfekt, um Aufgaben erledigen zu lassen, für die einem die Zeit oder das können fehlt und das für wenig Geld. Beispielsweise habe ich das Logo dieser Seite auf Fiverr erstellen lassen und ich spiele mit dem Gedanken mir dort eine App programmieren zu lassen. Die Seite bietet einfach tausende Möglichkeiten unternehmerische Ideen in die Tat umzusetzen.<br>Wenn du dich über meinen Link anmeldest erhältst du 20% Rabatt.*<br>Bei den mit (*) markierten Links/Wörtern handelt es sich um Affiliatelinks durch welche ich eine kleine Provision bekomme, wenn ihr auf die Links klickt und etwas bestellt/das Angebot nutzt. Dadurch entstehen euch keine zusätzlichen Kosten.<br> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Finanzdrache werden</title>
         <author>

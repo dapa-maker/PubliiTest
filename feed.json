@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://dapa-maker.github.io/PubliiTest/fiverr.html",
+            "url": "https://dapa-maker.github.io/PubliiTest/fiverr.html",
+            "title": "Fiverr",
+            "summary": "Fiverr eignet sich perfekt, um Aufgaben erledigen zu lassen, für die einem die Zeit oder das können fehlt und das für wenig Geld. Beispielsweise habe ich das Logo dieser Seite auf Fiverr erstellen lassen und ich spiele mit dem Gedanken mir dort eine App programmieren&hellip;",
+            "content_html": "<p>Fiverr eignet sich perfekt, um Aufgaben erledigen zu lassen, für die einem die Zeit oder das können fehlt und das für wenig Geld. Beispielsweise habe ich das Logo dieser Seite auf Fiverr erstellen lassen und ich spiele mit dem Gedanken mir dort eine App programmieren zu lassen. Die Seite bietet einfach tausende Möglichkeiten unternehmerische Ideen in die Tat umzusetzen.<br>Wenn du dich über meinen Link anmeldest erhältst du 20% Rabatt.*<br>Bei den mit (*) markierten Links/Wörtern handelt es sich um Affiliatelinks durch welche ich eine kleine Provision bekomme, wenn ihr auf die Links klickt und etwas bestellt/das Angebot nutzt. Dadurch entstehen euch keine zusätzlichen Kosten.<br> </p>",
+            "author": {
+                "name": "Daniel Parpart"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-24T16:56:29+02:00",
+            "date_modified": "2022-05-24T16:56:29+02:00"
+        },
+        {
             "id": "https://dapa-maker.github.io/PubliiTest/finanzdrache-werden.html",
             "url": "https://dapa-maker.github.io/PubliiTest/finanzdrache-werden.html",
             "title": "Finanzdrache werden",
