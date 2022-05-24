@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dapa-maker.github.io/PubliiTest/sitemap.xml
